@@ -1,2 +1,1 @@
-# Flipkart-dashboard
-By Tablue
+# Flipkart-Sales-Dashboard
